@@ -5,6 +5,7 @@
   "author": "Kalimar Maia <kalimar.maia@gmail.com>",
   "description": "Nerd Verse Bot Meister",
   "dependencies": {
+    "flip": "^0.1.1",
     "hubot": "^2.13.2",
     "hubot-ambush": "0.0.3",
     "hubot-diagnostics": "0.0.1",
