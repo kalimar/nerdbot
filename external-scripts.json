@@ -11,5 +11,7 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-urban",
+  "hubot-wordnik"
 ]
